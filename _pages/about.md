@@ -44,7 +44,7 @@ I am currently a third-year Phd candidate at the School of Computer Science and 
 - `ICCPS 2023` Autonomous and Cost-Effective Defect Detection System for Molded Pulp Products. **Haochen Wang**, Zhiwei Shi, Yafei Qiao, Fan Yang, Yuzhe He, Dong Xuan, Wei Zhao
 
 # 🎖 Honors and Awards
-- *2021* **National First Prize & Entrepreneurial Potential Award**, The 14th National University Student Software Innovation Competition. 
+- *2021*, **National First Prize & Entrepreneurial Potential Award**, The 14th National University Student Software Innovation Competition. 
 
 # 📖 Educations
 - *2022.09 - now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./images/sduicon.ico" alt="SDU" style="width:20px;height:20px;"> Ph.D. Candidate in [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/)
