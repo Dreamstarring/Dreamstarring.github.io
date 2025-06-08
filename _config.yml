@@ -7,10 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "
-Welcome to Haochen Wang’s Personal Homepage!
-
-I am currently a third-year Phd candidate at the School of Computer Science and Technology, Shandong University. My research interests include Reinforcement Learning and Large Language Model (LLM) Agents."
+description              : "RL/LLM Agents"
 repository               : "Dreamstarring/dreamstarring.github.io"
 google_scholar_stats_use_cdn : true
 
