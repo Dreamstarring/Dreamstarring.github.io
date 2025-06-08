@@ -28,31 +28,27 @@ I am currently a third-year Phd candidate at the School of Computer Science and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/hamlet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control](https://arxiv.org/pdf/2504.17771)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Haochen Wang**, Zhiwei Shi, Chengxi Zhu, Yafei Qiao, Cheng Zhang, Fan Yang, Pengjie Ren, Lan Lu, Dong Xuan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://dreamstarring.github.io/HAMLET/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce Hamlet, a novel hybrid control system for agile badminton robots. We present results on our self-engineered badminton robot, achieving 94.5% success rate against the serving machine and 90.7% success rate against human players.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `Information Fusion` MV-BMR: A Real-time Motion and Vision Sensing Integration based Agile Badminton Robot. Zhiwei Shi, Xingyu Zhang, Chengxi Zhu, **Haochen Wang**, Jun Yan, Fan Yang, Dong Xuan
+- `ICCPS 2023` Autonomous and Cost-Effective Defect Detection System for Molded Pulp Products. **Haochen Wang**, Zhiwei Shi, Yafei Qiao, Fan Yang, Yuzhe He, Dong Xuan, Wei Zhao
 
 # 🎖 Honors and Awards
-- *2022* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021* **National First Prize & Entrepreneurial Potential Award**, The 14th National University Student Software Innovation Competition. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./images/sduicon.ico" alt="SDU" style="width:20px;height:20px;"> Ph.D. Candidate in [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/)
+- *2018.09 - 2022.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./images/sduicon.ico" alt="SDU" style="width:20px;height:20px;"> B.E. in [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/)
 
 # 💻 Internships
 - *2022.09 - 2022.10*, Zhejiang DeepCode Robotics, Hangzhou, China.
