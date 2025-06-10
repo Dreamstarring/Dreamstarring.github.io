@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Haochen Wang’s Personal Homepage! 
 
-I am currently a third-year PhD candidate at the School of Computer Science and Technology, Shandong University. My research interests include Reinforcement Learning and Large Language Model (LLM) Agents.
+I am currently a third-year PhD candidate at the School of Computer Science and Technology, Shandong University, advised by [Prof. Zhiwei Xu](https://xuleek.tech/) and [Prof. Zhumin Chen](https://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm). Previously, I conducted robotics learning research under [Prof. Dong Xuan](https://scholar.google.com/citations?hl=zh-CN&user=11NcM2EAAAAJ) at the same institution. My research interests include Reinforcement Learning and Large Language Model (LLM) Agents.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by **Information Fusion (Best Researcher Award)**! 
