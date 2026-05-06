@@ -22,6 +22,7 @@ Welcome to Haochen Wang’s Personal Homepage!
 I am currently a third-year PhD candidate at the School of Computer Science and Technology, Shandong University, advised by [Prof. Zhiwei Xu](https://xuleek.tech/) and [Prof. Zhumin Chen](https://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm). During this period, I also pursued robotics research under the supervision of [Prof. Dong Xuan](https://scholar.google.com/citations?hl=zh-CN&user=11NcM2EAAAAJ). My research interests are Reinforcement Learning and Large Language Model (LLM) Agents.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by **ICML 2026**! 
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by **Information Fusion**! 
 - *2025.01*: &nbsp;🎉🎉 One **first-author** paper has been accepted by **ICRA 2025**! 
 - *2023.01*: &nbsp;🎉🎉 One **first-author** paper has been accepted by **ICCPS 2023**! 
@@ -40,6 +41,7 @@ I am currently a third-year PhD candidate at the School of Computer Science and 
 </div>
 </div>
 
+- `ICML 2026` DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation. Miduo Cui, **Haochen Wang**, Shangqin Mao, Xun Yang, Qianlong Xie, Xingxing Wang, Xuri Ge, Ying Zhou, and Zhiwei Xu
 - `Information Fusion` MV-BMR: A Real-time Motion and Vision Sensing Integration based Agile Badminton Robot. Zhiwei Shi, Xingyu Zhang, Chengxi Zhu, **Haochen Wang**, Jun Yan, Fan Yang, Dong Xuan
 - `ICCPS 2023` Autonomous and Cost-Effective Defect Detection System for Molded Pulp Products. **Haochen Wang**, Zhiwei Shi, Yafei Qiao, Fan Yang, Yuzhe He, Dong Xuan, Wei Zhao
 
@@ -51,5 +53,5 @@ I am currently a third-year PhD candidate at the School of Computer Science and 
 - *2018.09 - 2022.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./images/sduicon.ico" alt="SDU" style="width:20px;height:20px;"> B.E. in [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/)
 
 # 💻 Internships
-- *2025.08 -   now*  , Meituan, Beijing, China.
+- *2025.08 - 2025.12*  , Meituan, Beijing, China.
 - *2022.08 - 2022.11*, Zhejiang DeepCode Robotics, Hangzhou, China.
