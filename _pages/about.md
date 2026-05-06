@@ -53,5 +53,5 @@ I am currently a third-year PhD candidate at the School of Computer Science and 
 - *2018.09 - 2022.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./images/sduicon.ico" alt="SDU" style="width:20px;height:20px;"> B.E. in [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/)
 
 # 💻 Internships
-- *2025.08 - 2025.12*  , Meituan, Beijing, China.
+- *2025.08 - 2025.12*, Meituan, Beijing, China.
 - *2022.08 - 2022.11*, Zhejiang DeepCode Robotics, Hangzhou, China.
